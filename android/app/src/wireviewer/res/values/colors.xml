@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="theme_olive">#A19D45</color>
+    <color name="status_bar_color_yabalas">#FFFFFF</color>
+    <color name="status_bar_color_shilengae">#E33134</color>
+    <color name="white_color">#FFFFFF</color>
+
+    <color name="colorPrimary">#5DC700</color>
+    <color name="colorStatusBarColor">#E39B03</color>
+    <color name="colorAccent">#FAE215</color>
+</resources>
